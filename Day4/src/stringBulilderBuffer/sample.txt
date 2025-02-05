@@ -1,0 +1,10 @@
+This is testing file.
+Use for testing only.
+Duplicate words in this file is found .
+We have to detect this word.This is testing file.
+Use for testing only.
+Duplicate words in this file is found .
+We have to detect this word.This is testing file.
+Use for testing only.
+Duplicate words in this file is found .
+We have to detect this word.
